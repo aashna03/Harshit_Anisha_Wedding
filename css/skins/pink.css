@@ -1,0 +1,12 @@
+.header .nav ul li a.active,
+.header .nav ul li a:hover,
+.couple .buds h3,
+.event-content i{
+    color:#fb839e;
+}
+.event-content{
+    color: black;
+}
+.couple .buds img{
+    border-color: #fb839e;
+}
